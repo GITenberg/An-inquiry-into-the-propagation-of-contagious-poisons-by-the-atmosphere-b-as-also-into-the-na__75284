@@ -1,5 +1,8 @@
 _repo: An-inquiry-into-the-propagation-of-contagious-poisons-by-the-atmosphere-b-as-also-into-the-na__75284
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75284-h/images/cover.jpg
 creator:
   author:
     agent_name: Alison, Somerville Scott
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57921'
     url: http://www.gutenberg.org/2009/agents/57921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75284#An-inquiry-into-the-propagation-of-contagious-poisons-by-the-atmosphere-b-as-also-into-the-na_
 gutenberg_issued: '2025-02-03'
 gutenberg_type: Text
 identifiers:
